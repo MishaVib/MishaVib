@@ -13,14 +13,14 @@
 <img width="6%" title="TestOps" src="images/Allure_TO.svg">
 <img width="6%" title="Jenkins" src="images/Jenkins.svg">
 <img width="6%" title="GitHub" src="images/GitHub.svg">
-<img width="6%" title="GitHub" src="images/Appium.svg">
-<img width="6%" title="GitHub" src="images/Browserstack.svg">
+<img width="6%" title="Appium" src="images/Appium.svg">
+<img width="6%" title="Browserstack" src="images/Browserstack.svg">
 <img width="6%" title="Telegram" src="images/Telegram.svg">
-<img width="20%" title="Telegram" src="images/selenium.png">
-<img width="6%" title="Telegram" src="images/lombok.png">
-<img width="6%" title="Telegram" src="images/rest-assured.png">
-<img width="15%" title="Telegram" src="images/maven.svg">
-<img width="6%" title="Telegram" src="images/bitbucket-seeklogo.com.svg">
+<img width="20%" title="Selenium" src="images/selenium.png">
+<img width="6%" title="Lombok" src="images/lombok.png">
+<img width="6%" title="REST-assured" src="images/rest-assured.png">
+<img width="15%" title="Mavenm" src="images/maven.svg">
+<img width="6%" title="Bitbucket" src="images/bitbucket-seeklogo.com.svg">
 </p>
 
 ## About my stack
