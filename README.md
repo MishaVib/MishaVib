@@ -19,7 +19,7 @@
 <img width="20%" title="Selenium" src="images/selenium.png">
 <img width="6%" title="Lombok" src="images/lombok.png">
 <img width="6%" title="REST-assured" src="images/rest-assured.png">
-<img width="15%" title="Mavenm" src="images/maven.svg">
+<img width="15%" title="Maven" src="images/maven.svg">
 <img width="6%" title="Bitbucket" src="images/bitbucket-seeklogo.com.svg">
 </p>
 
